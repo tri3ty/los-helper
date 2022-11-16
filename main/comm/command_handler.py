@@ -29,7 +29,7 @@ from command.Drop import Drop
 from command.Get import Get
 from comm.Spells import *
 from comm.thread_maker import ThreadMaker
-from command.repair import Repair
+from command.Repair import Repair
 from command.wear import Wear
 from mini_bots.armour_bot import ArmourBot
 from command.equipment import Equipment
